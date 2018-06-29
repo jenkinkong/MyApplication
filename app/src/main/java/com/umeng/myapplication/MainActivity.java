@@ -10,6 +10,9 @@ import android.widget.EditText;
 
 import com.umeng.myapplication.utils.AlarmMangerUtils;
 
+/**
+ * edit by kong
+ */
 public class MainActivity extends Activity {
 
     private EditText et1 ;
